@@ -5,6 +5,8 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movementInput;
+    public Animator anim;
+    public SpriteRenderer sprite;
 
     void Start()
     {
@@ -47,5 +49,7 @@ public class PlayerMovement : MonoBehaviour
 
         return new Vector2(isoX, isoY);
     }
+    
 }
+
 
