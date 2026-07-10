@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42377349f7c39d748b8072d677d11a26, type: 3}
+  m_Name: tree
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  lines:
+  - speakerName: susie
+    dialogueText: why hello there. i am susie the tree
+    speakerPortrait: {fileID: 0}
+    italicizeText: 0
+  - speakerName: player
+    dialogueText: hello susie the tree!
+    speakerPortrait: {fileID: 0}
+    italicizeText: 0
+  - speakerName: player
+    dialogueText: why is a tree talking to me?
+    speakerPortrait: {fileID: 0}
+    italicizeText: 1

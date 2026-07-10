@@ -1,16 +1,19 @@
-using UnityEngine;
 
+using UnityEngine;
+using UnityEngine.EventSystems;
 public class InspectItem : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private float rotationSpeed = 3f;
+
+    public void OnDrag(PointerEventData eventData)
     {
-        
+        float rotationAmount = eventData.delta.x * rotationSpeed;
+        transform.Rotate(Vector3.forward, -rotationAmount);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnDisable()
     {
-        
+        transform.localRotation = Quaternion.identity;
     }
 }
+

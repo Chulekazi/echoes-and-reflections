@@ -32,13 +32,15 @@ public class InventoryManager : MonoBehaviour
 
         inspectNameText.text = item.itemName;
         inspectDescriptionText.text = item.itemDescription;
+
         inspectImage.sprite = item.itemIcon;
+        inspectImage.SetNativeSize();
 
         inspectPanel.SetActive(true);
-        Time.timeScale = 0f; 
+        Time.timeScale = 0f;
     }
 
-   
+
     public void ClaimItem()
     {
         if (pendingItem != null)
