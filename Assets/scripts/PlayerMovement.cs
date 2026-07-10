@@ -5,8 +5,8 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movementInput;
-    public Animator anim;
-    public SpriteRenderer sprite;
+    private Animator anim;
+    private SpriteRenderer sprite;
 
     void Start()
     {
