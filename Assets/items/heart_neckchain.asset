@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79e8f6207a9302c4a9734e78461eb26b, type: 3}
   m_Name: heart_neckchain
   m_EditorClassIdentifier: Assembly-CSharp::Items
-  itemName: Heart neckchain
+  itemName: Heart necklace
   itemDescription: this is a test
   itemIcon: {fileID: 0}
   visual2DPrefab: {fileID: 0}
