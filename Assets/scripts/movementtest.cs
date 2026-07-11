@@ -48,7 +48,7 @@ public class movementtest : MonoBehaviour
                 if (keyboard.dKey.isPressed) anim.Play("Walking Side");
                 else if (keyboard.wKey.isPressed) anim.Play("Walking up");
                 else if (keyboard.sKey.isPressed) anim.Play("walking");
-                else if (keyboard.aKey.isPressed) anim.Play("Walking Side");
+                else if (keyboard.aKey.isPressed) anim.Play("Walking left");
                 else if (keyboard.aKey.isPressed) transform.localScale = new Vector3(-1, 1, 1); 
                 else anim.Play("idle");    
 

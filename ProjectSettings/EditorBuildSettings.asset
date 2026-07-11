@@ -9,11 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/game.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/Cave.unity
-    guid: 38ad04bf7b289ac4190ef45fe24ea2f6
-  - enabled: 1
-    path: Assets/Scenes/Forest.unity
-    guid: abbfe43cdb04c854789cfd4d40f10e35
+    path: Assets/Scenes/badending.unity
+    guid: dbdae4e4922a9264893d68b17daa1abb
   - enabled: 1
     path: Assets/Scenes/BonusScene_!.unity
     guid: 2f7b3063cdf4bc34aa8c1ab930ea05a0
@@ -23,5 +20,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cabin.unity
     guid: d520137b57dbf7c4d9ca33b217ce33b4
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 38ad04bf7b289ac4190ef45fe24ea2f6
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: abbfe43cdb04c854789cfd4d40f10e35
+  - enabled: 1
+    path: Assets/Scenes/goodending.unity
+    guid: 3c85990cf1527c6429a30a38a1c0bafc
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 8a7a61917d8128241a8abb788bbb13d5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
