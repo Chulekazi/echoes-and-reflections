@@ -10,9 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79e8f6207a9302c4a9734e78461eb26b, type: 3}
-  m_Name: pill_bottle
-  m_EditorClassIdentifier: Assembly-CSharp::Items
-  itemName: Pill Bottle
-  itemDescription: 
-  itemIcon: {fileID: -5861365164545485535, guid: 096a4f57bf17e5740a91b3cd0f558f6f, type: 3}
-  visual2DPrefab: {fileID: -5861365164545485535, guid: 096a4f57bf17e5740a91b3cd0f558f6f, type: 3}
+  m_Name: bag
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  itemName: Backpack
+  icon: {fileID: -2835834142924621083, guid: ea2e9008632a8284c965148bbd9be30e, type: 3}
+  isEquippable: 1

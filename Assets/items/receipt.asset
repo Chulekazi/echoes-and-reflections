@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79e8f6207a9302c4a9734e78461eb26b, type: 3}
-  m_Name: journal
+  m_Name: receipt
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  itemName: Wet Journal
-  icon: {fileID: -5357351754739653598, guid: 356fe8b885c1a5e4c9bee3c383429a0f, type: 3}
+  itemName: Receipt with coins
+  icon: {fileID: -586595818830592995, guid: fc95a0a4b3ba21c4e894095e635d54ab, type: 3}
   isEquippable: 1

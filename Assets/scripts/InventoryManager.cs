@@ -1,62 +1,46 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
 
 public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance;
 
-    [Header("Inventory Data")]
     public List<Items> items = new List<Items>();
+    public Transform slotContainer; // Drag InventoryPanel here
+    public GameObject slotPrefab;   // Drag your InventorySlot prefab here
 
-    [Header("Inspection UI Panel")]
-    public GameObject inspectPanel;
-    public TextMeshProUGUI inspectNameText;
-    public TextMeshProUGUI inspectDescriptionText;
-    public Image inspectImage;
-
-    private Items pendingItem; 
-
-    void Awake()
+    private void Awake()
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
-
-        inspectPanel.SetActive(false); 
     }
 
-    public void OpenInspectionWindow(Items item)
+    public void AddItem(Items item)
     {
-        pendingItem = item;
-
-        inspectNameText.text = item.itemName;
-        inspectDescriptionText.text = item.itemDescription;
-
-        inspectImage.sprite = item.itemIcon;
-        inspectImage.SetNativeSize();
-
-        inspectPanel.SetActive(true);
-        Time.timeScale = 0f;
+        items.Add(item);
+        UpdateUI();
     }
 
-
-    public void ClaimItem()
+    public void RemoveItem(Items item)
     {
-        if (pendingItem != null)
+        items.Remove(item);
+        UpdateUI();
+    }
+
+    void UpdateUI()
+    {
+        // Clear old visual slots
+        foreach (Transform child in slotContainer)
         {
-            items.Add(pendingItem);
-            Debug.Log($"{pendingItem.itemName} added to inventory!");
+            Destroy(child.gameObject);
         }
 
-        CloseInspectionWindow();
+        // Generate updated visual slots
+        foreach (Items item in items)
+        {
+            GameObject newSlot = Instantiate(slotPrefab, slotContainer);
+            InventorySlotUI slotUI = newSlot.GetComponent<InventorySlotUI>();
+            slotUI.DisplayItem(item);
+        }
     }
-
-    public void CloseInspectionWindow()
-    {
-        pendingItem = null;
-        inspectPanel.SetActive(false);
-        Time.timeScale = 3f; 
-    }
-
 }
