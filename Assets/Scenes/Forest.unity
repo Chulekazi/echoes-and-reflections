@@ -153,11 +153,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!1 &54076568
-=======
---- !u!1 &241731276
->>>>>>> Stashed changes
 =======
 --- !u!1 &241731276
 >>>>>>> Stashed changes
@@ -173,13 +169,10 @@ GameObject:
   m_Component:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - component: {fileID: 54076569}
   m_Layer: 0
   m_Name: Spawn_FromBonus_2
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   - component: {fileID: 241731278}
@@ -187,9 +180,6 @@ GameObject:
   m_Layer: 0
   m_Name: Spawn_FromCave
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -198,7 +188,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!4 &54076569
@@ -241,15 +230,11 @@ GameObject:
 =======
 --- !u!114 &241731277
 >>>>>>> Stashed changes
-=======
---- !u!114 &241731277
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 107083295}
@@ -310,8 +295,6 @@ BoxCollider2D:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 241731276}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -320,9 +303,6 @@ BoxCollider2D:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawner
 --- !u!4 &241731278
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -331,7 +311,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 107083295}
@@ -372,16 +351,11 @@ Transform:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 241731276}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.6, y: -0.43, z: 0}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1900,10 +1874,7 @@ BoxCollider2D:
   m_Size: {x: 4.2033563, y: 0.99999976}
   m_EdgeRadius: 0
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 --- !u!1 &1027651169
 GameObject:
   m_ObjectHideFlags: 0
@@ -1982,9 +1953,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 4.2033563, y: 0.99999976}
   m_EdgeRadius: 0
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 --- !u!4 &1027651172
 Transform:
@@ -2002,9 +1970,6 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2330,11 +2295,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!1 &1238663378
-=======
---- !u!1 &1252421465
->>>>>>> Stashed changes
 =======
 --- !u!1 &1252421465
 >>>>>>> Stashed changes
@@ -2350,7 +2311,6 @@ GameObject:
   m_Component:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - component: {fileID: 1238663382}
   - component: {fileID: 1238663381}
   - component: {fileID: 1238663380}
@@ -2360,17 +2320,12 @@ GameObject:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   - component: {fileID: 1252421468}
   - component: {fileID: 1252421467}
   - component: {fileID: 1252421466}
   m_Layer: 0
   m_Name: SceneTransitionObject (2)
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2381,11 +2336,7 @@ GameObject:
   m_IsActive: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!114 &1238663380
-=======
---- !u!114 &1252421466
->>>>>>> Stashed changes
 =======
 --- !u!114 &1252421466
 >>>>>>> Stashed changes
@@ -2397,7 +2348,6 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1238663378}
@@ -2430,8 +2380,6 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1252421465}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -2443,9 +2391,6 @@ MonoBehaviour:
 --- !u!61 &1252421467
 BoxCollider2D:
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2453,7 +2398,6 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1238663378}
@@ -2495,8 +2439,6 @@ BoxCollider2D:
   BlendHint: 0
 --- !u!4 &1238663382
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   m_GameObject: {fileID: 1252421465}
@@ -2541,9 +2483,6 @@ BoxCollider2D:
   m_EdgeRadius: 0
 --- !u!4 &1252421468
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2554,7 +2493,6 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 1238663378}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -2563,17 +2501,12 @@ Transform:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   m_GameObject: {fileID: 1252421465}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 41.64, y: 0.34, z: 0}
   m_LocalScale: {x: 1.5394558, y: 1.5394558, z: 1.5394558}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2581,7 +2514,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!114 &1238663383
@@ -2604,8 +2536,6 @@ MonoBehaviour:
     MaxWindowSize: 0
     Padding: 0
   m_LegacyMaxWindowSize: -2
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -4492,11 +4422,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.65702057, y: 0.494, z: -10}
-=======
-  m_LocalPosition: {x: 17.01, y: 0.04, z: -10}
->>>>>>> Stashed changes
 =======
   m_LocalPosition: {x: 17.01, y: 0.04, z: -10}
 >>>>>>> Stashed changes
@@ -5084,7 +5010,6 @@ SceneRoots:
   - {fileID: 1823465280}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - {fileID: 1238663382}
   - {fileID: 966795133}
   - {fileID: 891444597}
@@ -5096,16 +5021,11 @@ SceneRoots:
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   - {fileID: 663786352}
   - {fileID: 1407437553}
   - {fileID: 1027651172}
   - {fileID: 1252421468}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
