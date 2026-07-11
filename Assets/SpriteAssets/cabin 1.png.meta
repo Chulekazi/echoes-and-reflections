@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 45dded768b2d23f4ea8ff04afe4125a1
+guid: f35063da938c4d74d93aaa1ff22bc802
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4026707059106911698
-    second: Sprite-0011_0
+      213: -8747687619040259823
+    second: cabin 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite-0011_0
+      name: cabin 1_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 3
-        width: 36
-        height: 56
+        x: 0
+        y: 0
+        width: 417
+        height: 266
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d510a06cbcb1e730800000000000000
-      internalID: 4026707059106911698
+      spriteID: 111d50d2578f99680800000000000000
+      internalID: -8747687619040259823
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sprite-0011_0: 4026707059106911698
+      cabin 1_0: -8747687619040259823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

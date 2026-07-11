@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: a2f735057b2fce542981e424e109052a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2858483676197263417
+    second: home decor_0
+  - first:
+      213: 4947589605310469539
+    second: home decor_1
+  - first:
+      213: 6448147284984190275
+    second: home decor_2
+  - first:
+      213: -5324346995613991341
+    second: home decor_3
+  - first:
+      213: 2411035398105502021
+    second: home decor_4
+  - first:
+      213: -534673022654154161
+    second: home decor_5
+  - first:
+      213: 6327093652224028539
+    second: home decor_6
+  - first:
+      213: -8213716934269396419
+    second: home decor_7
+  - first:
+      213: 3629380010973149370
+    second: home decor_8
+  - first:
+      213: 1966936122007898980
+    second: home decor_9
+  - first:
+      213: 4627375356091220797
+    second: home decor_10
+  - first:
+      213: 6784499773832965501
+    second: home decor_11
+  - first:
+      213: 6188347229399240441
+    second: home decor_12
+  - first:
+      213: 4670413657818718692
+    second: home decor_13
+  - first:
+      213: 5887844429118872495
+    second: home decor_14
+  - first:
+      213: -8624023634040686401
+    second: home decor_15
+  - first:
+      213: 8825519979504035722
+    second: home decor_16
+  - first:
+      213: -4849851276843485387
+    second: home decor_17
+  - first:
+      213: -7946520848344239989
+    second: home decor_18
+  - first:
+      213: 1906047707819046775
+    second: home decor_19
+  - first:
+      213: -5469923237351737153
+    second: home decor_20
+  - first:
+      213: -4386370298513905596
+    second: home decor_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: home decor_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9389df332cf5ba720800000000000000
+      internalID: 2858483676197263417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a512f6588e59a440800000000000000
+      internalID: 4947589605310469539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 77
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d1ecbacb6c7950800000000000000
+      internalID: 6448147284984190275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 84
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e7289fd9e1c16b0800000000000000
+      internalID: -5324346995613991341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 84
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54198fc9be7b57120800000000000000
+      internalID: 2411035398105502021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4af6bdf7b57498f0800000000000000
+      internalID: -534673022654154161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f2171872a5ec750800000000000000
+      internalID: 6327093652224028539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a134767f3030e80800000000000000
+      internalID: -8213716934269396419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 39
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab835f404e52e5230800000000000000
+      internalID: 3629380010973149370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 44
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b4a205bf5fb4b10800000000000000
+      internalID: 1966936122007898980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c6369e5db73040800000000000000
+      internalID: 4627375356091220797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d28063992672e50800000000000000
+      internalID: 6784499773832965501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4d13940d61e550800000000000000
+      internalID: 6188347229399240441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ea641a74a0d040800000000000000
+      internalID: 4670413657818718692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab946a2053d5b150800000000000000
+      internalID: 5887844429118872495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87e666230515880800000000000000
+      internalID: -8624023634040686401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87637869ab8a7a70800000000000000
+      internalID: 8825519979504035722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f44695fdd1bcb0800000000000000
+      internalID: -4849851276843485387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80b432146948b190800000000000000
+      internalID: -7946520848344239989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7777085aa44a37a10800000000000000
+      internalID: 1906047707819046775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8bef8ebcde614b0800000000000000
+      internalID: -5469923237351737153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44821c7147b7023c0800000000000000
+      internalID: -4386370298513905596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 86
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4fb431e57b7642af39464c58ef4f0
+      internalID: 1294783115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 73
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad285244d3b6844a8bcb93a56fe180
+      internalID: -1201748255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home decor_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 72
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4e6af0b101c24ea558cd59f60fa36
+      internalID: -493761496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73b5b29ec2b80bd4d84df2348e5ecfc8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      home decor_0: 2858483676197263417
+      home decor_1: 4947589605310469539
+      home decor_10: 4627375356091220797
+      home decor_11: 6784499773832965501
+      home decor_12: 6188347229399240441
+      home decor_13: 4670413657818718692
+      home decor_14: 5887844429118872495
+      home decor_15: -8624023634040686401
+      home decor_16: 8825519979504035722
+      home decor_17: -4849851276843485387
+      home decor_18: -7946520848344239989
+      home decor_19: 1906047707819046775
+      home decor_2: 6448147284984190275
+      home decor_20: -5469923237351737153
+      home decor_21: -4386370298513905596
+      home decor_22: 1294783115
+      home decor_23: -1201748255
+      home decor_24: -493761496
+      home decor_3: -5324346995613991341
+      home decor_4: 2411035398105502021
+      home decor_5: -534673022654154161
+      home decor_6: 6327093652224028539
+      home decor_7: -8213716934269396419
+      home decor_8: 3629380010973149370
+      home decor_9: 1966936122007898980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
