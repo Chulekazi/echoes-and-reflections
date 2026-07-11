@@ -1745,6 +1745,7 @@ EdgeCollider2D:
   m_EdgeRadius: 0
   m_Points:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {x: 6.701712, y: 6.466142}
   - {x: 6.9783907, y: 6.9364953}
   - {x: 6.3619075, y: 7.6652856}
@@ -1775,12 +1776,17 @@ EdgeCollider2D:
   - {x: 4.183575, y: -1.2571274}
   - {x: 6.735928, y: 6.4203515}
 =======
+=======
+>>>>>>> Stashed changes
   - {x: 7.64242, y: 6.4108067}
   - {x: 7.64242, y: 6.4108067}
   - {x: -9.754625, y: 6.8454485}
   - {x: -7.0979147, y: -1.9321564}
   - {x: 4.4477463, y: -2.053711}
   - {x: 7.5382957, y: 6.3926835}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
@@ -1796,7 +1802,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0.22, y: -1.89, z: 0}
+=======
+  m_LocalPosition: {x: -0.135, y: -0.09012, z: 0}
+>>>>>>> Stashed changes
 =======
   m_LocalPosition: {x: -0.135, y: -0.09012, z: 0}
 >>>>>>> Stashed changes
@@ -2090,7 +2100,10 @@ SceneRoots:
   - {fileID: 1450503391}
   - {fileID: 1613247722}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 240860441}
   - {fileID: 906743349}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
