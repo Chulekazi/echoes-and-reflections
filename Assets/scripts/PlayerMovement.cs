@@ -7,29 +7,34 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 movementInput;
     private Animator anim;
     private SpriteRenderer sprite;
+    private bool ifWalking; 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update()
     {
         movementInput = Vector2.zero;
 
+        
         if (Input.GetKey(KeyCode.W))
         {
-            movementInput.y = 1;  
+            movementInput.y = 1;
         }
+        
         else if (Input.GetKey(KeyCode.S))
         {
             movementInput.y = -1; 
         }
-
+        
         if (Input.GetKey(KeyCode.D))
         {
             movementInput.x = 1; 
         }
+        
         else if (Input.GetKey(KeyCode.A))
         {
             movementInput.x = -1;
