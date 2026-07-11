@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79e8f6207a9302c4a9734e78461eb26b, type: 3}
-  m_Name: journal
+  m_Name: compass
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  itemName: Wet Journal
-  icon: {fileID: -5357351754739653598, guid: 356fe8b885c1a5e4c9bee3c383429a0f, type: 3}
+  itemName: Broken Compass
+  icon: {fileID: 563670695059338127, guid: 5d8444efa238f6147a36192293727758, type: 3}
   isEquippable: 1
