@@ -151,19 +151,7 @@ Transform:
   - {fileID: 839102411}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!1 &54076568
-=======
---- !u!1 &241731276
->>>>>>> Stashed changes
-=======
---- !u!1 &241731276
->>>>>>> Stashed changes
-=======
---- !u!1 &241731276
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -171,36 +159,14 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - component: {fileID: 54076569}
   m_Layer: 0
   m_Name: Spawn_FromBonus_2
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-  - component: {fileID: 241731278}
-  - component: {fileID: 241731277}
-  m_Layer: 0
-  m_Name: Spawn_FromCave
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!4 &54076569
 Transform:
   m_ObjectHideFlags: 0
@@ -235,23 +201,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!114 &107083296
-=======
---- !u!114 &241731277
->>>>>>> Stashed changes
-=======
---- !u!114 &241731277
->>>>>>> Stashed changes
-=======
---- !u!114 &241731277
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 107083295}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -307,33 +261,11 @@ BoxCollider2D:
   m_Size: {x: 2.2940192, y: 1}
   m_EdgeRadius: 0
 --- !u!4 &107083298
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-  m_GameObject: {fileID: 241731276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da3aebc78f0dc404496c255fdcc86d44, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawner
---- !u!4 &241731278
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 107083295}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -369,22 +301,55 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.13, y: 2.63, z: 0}
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &241731276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 241731278}
+  - component: {fileID: 241731277}
+  m_Layer: 0
+  m_Name: Spawn_FromCave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &241731277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 241731276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da3aebc78f0dc404496c255fdcc86d44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawner
+--- !u!4 &241731278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 241731276}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.6, y: -0.43, z: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1904,7 +1869,7 @@ BoxCollider2D:
 =======
 =======
 >>>>>>> Stashed changes
---- !u!1 &1027651169
+--- !u!1 &9999991169
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1912,7 +1877,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1027651172}
   - component: {fileID: 1027651171}
   - component: {fileID: 1027651170}
   m_Layer: 0
@@ -1922,7 +1886,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1027651170
+--- !u!114 &9999991170
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1936,7 +1900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneTransition
   sceneToLoad: BonusScene_2
   spawnPointName: 
---- !u!61 &1027651171
+--- !u!61 &1027651172
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1986,7 +1950,7 @@ BoxCollider2D:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
---- !u!4 &1027651172
+--- !u!4 &9999991172
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2328,19 +2292,7 @@ Transform:
   - {fileID: 1114300870}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
---- !u!1 &1238663378
-=======
 --- !u!1 &1252421465
->>>>>>> Stashed changes
-=======
---- !u!1 &1252421465
->>>>>>> Stashed changes
-=======
---- !u!1 &1252421465
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2348,50 +2300,18 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   - component: {fileID: 1238663382}
   - component: {fileID: 1238663381}
   - component: {fileID: 1238663380}
   - component: {fileID: 1238663383}
   m_Layer: 0
   m_Name: CinemachineCamera
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-  - component: {fileID: 1252421468}
-  - component: {fileID: 1252421467}
-  - component: {fileID: 1252421466}
-  m_Layer: 0
-  m_Name: SceneTransitionObject (2)
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!114 &1238663380
-=======
---- !u!114 &1252421466
->>>>>>> Stashed changes
-=======
---- !u!114 &1252421466
->>>>>>> Stashed changes
-=======
---- !u!114 &1252421466
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2459,9 +2379,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1238663378}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineCamera
   Priority:
     Enabled: 0
     m_Value: 0
