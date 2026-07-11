@@ -32,14 +32,12 @@ public class DialogueTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("Something hit the trigger: " + other.name);
+
         if (other.CompareTag("Player"))
         {
             playerIsClose = true;
-
-            if (promptVisual != null)
-            {
-                promptVisual.SetActive(true);
-            }
+            if (promptVisual != null) promptVisual.SetActive(true);
         }
     }
 
